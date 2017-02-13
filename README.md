@@ -1,5 +1,5 @@
 # Lib1
-Example Repository for [GitDepend]()
+Example Repository for [GitDepend](https://github.com/kjjuno/GitDepend)
 
 This is the lowest level repository.
 
