@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lib1
 {
-    public class Class1
-    {
-    }
+	public class StringUtils
+	{
+		public static string Trim(string str)
+		{
+			return str.Trim();
+		}
+	}
 }
