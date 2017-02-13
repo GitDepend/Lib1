@@ -12,5 +12,10 @@ namespace Lib1
 		{
 			return str.Trim();
 		}
+
+		public static string TrimEnd(string str)
+		{
+			return str.TrimEnd();
+		}
 	}
 }
