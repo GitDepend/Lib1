@@ -1,7 +1,8 @@
 {
   "name": "Lib1",
   "build": {
-    "script": "make.bat"
+    "script": "make.bat",
+    "arguments": ""
   },
   "packages": {
     "dir": "artifacts/NuGet/Debug"
