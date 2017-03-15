@@ -16,7 +16,8 @@ Run `make.bat` to build the project. Nuget Packages will be available at `artifa
 {
   "name": "Lib1",
   "build": {
-    "script": "make.bat"
+    "script": "make.bat",
+    "arguments": ""
   },
   "packages": {
     "dir": "artifacts/NuGet/Debug"
