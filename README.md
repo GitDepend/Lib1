@@ -1,5 +1,5 @@
 # Lib1
-Example Repository for [GitDepend](https://github.com/kjjuno/GitDepend)
+Example Repository for [GitDepend](https://github.com/GitDepend/GitDepend)
 
 This is the lowest level repository.
 
@@ -14,6 +14,7 @@ Run `make.bat` to build the project. Nuget Packages will be available at `artifa
 
 ```json
 {
+  "name": "Lib1",
   "build": {
     "script": "make.bat"
   },
